@@ -1,0 +1,2 @@
+# vnfLocal
+vnf local
